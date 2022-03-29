@@ -1,2 +1,3 @@
 # BasicKeylogger
-Payload was flashed to a digispark.
+Payload dropper installs payload and executes.
+Payload dropper was written for a digispark.
